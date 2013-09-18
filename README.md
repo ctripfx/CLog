@@ -12,3 +12,5 @@ For write API, it should be a straight-forward hbase write with buffering for ef
 For read API, it provides useful query languages to retrieve logs in a SQL like format.
 
 Based on CLog, we can develop many comprehensive log products, for example vertical log view, horizontal log view etc.
+
+

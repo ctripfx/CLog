@@ -1,7 +1,7 @@
 CLog
 ====
 
-Centralized log system including hbase storage and efficient API for read and write.
+Centralized log system including hbase storage and efficient API for read and write. Here is the wiki: https://github.com/ctripframework/CLog/wiki
 
 Instead of storing application logs to local files which is hard for future metrics statistics and event correlation, CLog uses hbase as centralized storage to persist logs and also leverages its distribution feature for scalability.  
 
